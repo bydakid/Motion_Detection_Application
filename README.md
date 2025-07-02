@@ -16,4 +16,4 @@ To build a Python-based video analysis system that automatically detects and cou
 - **Car Counting**: Increments counter only when objects cross a defined line and aren't duplicates  
 - **Rate Calculation**: Outputs the number of cars per minute using frame rate and duration
 
-  Link -> https://bydakid.com/car/car
+Link -> https://bydakid.com/car/car
